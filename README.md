@@ -1,6 +1,8 @@
 # Frontend Mentor QR Code Component
 
-<h6><a href="https://github.com/Flavio-sv/Frontend-Mentor-QR-code-component/blob/main/README-pt-br.md">Leia este documento em português</a></h6>
+<h6>🇧🇷 <a href="https://github.com/Flavio-sv/Frontend-Mentor-QR-code-component/blob/main/README-pt-br.md">Leia este documento em português </a>🇧🇷 </h6>
+
+
 
 This is a static project developed using HTML and CSS as part of the challenges proposed by [Frontend Mentor](https://www.frontendmentor.io/). The purpose of these challenges is to enhance front-end skills through the implementation of practical components.
 
@@ -35,7 +37,7 @@ The project consists of a simple web page that displays a QR code, directing use
 
 ## Project Status
 
->Status: Completed
+> ${\textsf{\color{green}Status: Completed}}$
 
 ## Author
 
