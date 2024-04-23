@@ -1,14 +1,14 @@
-# Frontend Mentor QR code component
+# Frontend Mentor QR Code Component
 
-Este é um projeto estático desenvolvido utilizando HTML e CSS como parte dos desafios propostos pelo [Frontend Mentor](https://www.frontendmentor.io/). O objetivo destes desafios é aprimorar habilidades de front-end, através da implementação de componentes práticos.
+<h6><a href="https://github.com/Flavio-sv/Frontend-Mentor-QR-code-component/blob/main/README-pt-br.md">Leia este documento em português</a></h6>
 
+This is a static project developed using HTML and CSS as part of the challenges proposed by [Frontend Mentor](https://www.frontendmentor.io/). The purpose of these challenges is to enhance front-end skills through the implementation of practical components.
 
-## Visão Geral do Projeto
+## Project Overview
 
-O projeto consiste em uma página web simples que exibe um QR code, direcionando os usuários ao site do Frontend Mentor, incentivando-os a melhorar suas habilidades de programação através de desafios práticos.
+The project consists of a simple web page that displays a QR code, directing users to the Frontend Mentor website, encouraging them to improve their programming skills through practical challenges.
 
-
-## Pré-visualização
+## Preview
 
 ### Desktop
 
@@ -18,25 +18,25 @@ O projeto consiste em uma página web simples que exibe um QR code, direcionando
 
 ![mobile-preview-image-qr-code](https://github.com/Flavio-sv/Frontend-Mentor-QR-code-component/assets/124817700/4818ae16-a499-4ade-907b-da7ac48454c7)
 
-## Como Utilizar
+## How to Use
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/Flavio-sv/Frontend-Mentor-QR-code-component.git
    ```
 
-2. Abra o arquivo `index.html` em qualquer navegador para visualizar o projeto.
+2. Open the `index.html` file in any browser to view the project.
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML
 - CSS
 
-## Status do Projeto
+## Project Status
 
->Status: Finalizado
+>Status: Completed
 
-## Autor
+## Author
 
-Este projeto foi desenvolvido por [Flavio-sv](https://github.com/Flavio-sv)
+This project was developed by [Flavio-sv](https://github.com/Flavio-sv)
